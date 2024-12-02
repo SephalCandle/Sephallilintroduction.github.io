@@ -14,7 +14,6 @@
             <li>Birthday: November 15<sup>nd</sup></li>
             <li>Favorites: Roblox, Programming</li>
             <li>Gender: Male</li>
-        
         </ul>
         <h1 style="color:antiquewhite;text-align: center;font-family: Arial, Helvetica, sans-serif;">My Schedule</h1>
         <table bgcolor="black">
@@ -46,7 +45,6 @@
             Your browser isnt support the audio element
         </audio>
         <div>
-
         <button onclick="var1()" style=" orange; color: blanchedalmond;align-items: center;border-radius: 5px;border-color: aquamarine;">Credits one who help me study HTML5</button>
         </div>
         <h1 style="color: aliceblue;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;" id="type">Click the above?</h1>
@@ -91,7 +89,6 @@
             <div>
                 <label for="email" style="color:aliceblue;font-family: Arial, Helvetica, sans-serif">Your email</label>
                 <input type="email" id="email" name="email" placeholder="Ex:Ashley1560@gmail.com">
-
             </div>
             <div>
                 <label for="comment" style="color:aliceblue;font-family: Arial, Helvetica, sans-serif">Comment</label>
